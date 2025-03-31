@@ -1,9 +1,6 @@
 {
   "name": "Samp Token",
   "symbol": "YZY",
-  //"uri": "https://github.com/ETNA10-7/mjs/new/main",
-  //"seller_fee_basis_points": 0,
- //"creators": null
   "description":"PlayMode",
-  "image":""
+  "image":"image.png"
 }
